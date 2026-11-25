@@ -47,3 +47,7 @@ alertify.js and the fonts load from a CDN, so an internet connection is needed.
 - Highlight the winning line.
 - Keep a score across rounds.
 - Add a single-player mode against a simple computer opponent.
+
+## License
+
+Released under the [MIT License](LICENSE).
