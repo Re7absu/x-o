@@ -19,7 +19,7 @@ for (const iteam of grideIteam){
 
         //يساعدني بأن اذا المستخدم ضغط على المربع باكس ورجع ضغط بنفس المربع ماراح يتغير 
         let index = value 
-        if (boarArray[index] =="x" ||boarArray["o"]){
+        if (boarArray[index] == "x" || boarArray[index] == "o"){
             return
         }
 
